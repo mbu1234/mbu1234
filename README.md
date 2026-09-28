@@ -1,3 +1,3 @@
-- 👋 Hi, I’m there. I'm Mark Butterly. I'm day job is in the field of education and training but I'm currently doing game development as a hobby.
+- 👋 Hi, I’m there. I'm Mark Butterly. This is just a small repro for some agent code along with other odds and ends.
 
 
